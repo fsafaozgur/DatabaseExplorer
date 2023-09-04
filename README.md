@@ -2,7 +2,7 @@
 Hazırlayan: Fatih Safa Özgür
 
 
-# DataBase Uygulaması
+# DatabaseExplorer Uygulaması
 
 ## Giriş
 
